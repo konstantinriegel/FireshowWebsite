@@ -1,3 +1,7 @@
 body{color: red; 
     background-image: url("https://nas-national-prod.s3.amazonaws.com/dsc_2017.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
 }
